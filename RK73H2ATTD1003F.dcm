@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RK73H2ATTD1003F
+D 100kohms resistor
+K resistor
+F http://www.koaspeer.com/pdfs/RK73H.pdf
+$ENDCMP
+#
+#End Doc Library

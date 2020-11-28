@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SG73S2ATTD7502F
+D 75kohms
+F http://www.koaspeer.com/pdfs/SG73S.pdf
+$ENDCMP
+#
+#End Doc Library

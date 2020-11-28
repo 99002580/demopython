@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 150kohms
+#
+DEF 150kohms R 0 40 Y Y 1 F N
+F0 "R" 0 50 50 H V C CNN
+F1 "150kohms" 0 250 50 H V C CNN
+F2 "Resistor_SMD:R_2512_6332Metric" 0 50 50 H I C CNN
+F3 "" 0 50 50 H I C CNN
+$FPLIST
+ Resistor_SMD:R_2512_6332Metric
+$ENDFPLIST
+DRAW
+S -200 100 200 200 0 1 1 N
+X ~ 1 -300 150 100 R 50 50 1 1 P
+X ~ 2 300 150 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

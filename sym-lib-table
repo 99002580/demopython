@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name rectifer)(type Legacy)(uri ${KIPRJMOD}/rectifer.lib)(options "")(descr ""))
+  (lib (name RT6211AHGE)(type Legacy)(uri ${KIPRJMOD}/RT6211AHGE.lib)(options "")(descr ""))
+  (lib (name INDUCTOR)(type Legacy)(uri ${KIPRJMOD}/INDUCTOR.lib)(options "")(descr ""))
+  (lib (name LM324AMX)(type Legacy)(uri ${KIPRJMOD}/LM324AMX.lib)(options "")(descr ""))
+  (lib (name RESISTOR)(type Legacy)(uri ${KIPRJMOD}/RESISTOR.lib)(options "")(descr ""))
+  (lib (name RK73H2ATTD1003F)(type Legacy)(uri ${KIPRJMOD}/RK73H2ATTD1003F.lib)(options "")(descr ""))
+  (lib (name SG73S2ATTD7502F)(type Legacy)(uri ${KIPRJMOD}/SG73S2ATTD7502F.lib)(options "")(descr ""))
+  (lib (name RK73H2ATTD1503F)(type Legacy)(uri ${KIPRJMOD}/RK73H2ATTD1503F.lib)(options "")(descr ""))
+)

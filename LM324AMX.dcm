@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM324AMX_NOPB
+D QUAD LM324AMX
+K QUAD LM324AMX
+F https://www.ti.com/lit/ds/symlink/lm124-n.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1606544671562
+$ENDCMP
+#
+#End Doc Library
